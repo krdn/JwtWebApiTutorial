@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtWebApiDotNet7", "JwtWebA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtWebApiTutorial", "JwtWebApiTutorial\JwtWebApiTutorial.csproj", "{D9E1C90C-AB39-4F37-93CD-26E68A8E86E9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blazor", "Blazor", "{5487FBF1-5197-421F-A0B0-2F1BC77211A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthenticationTutorial", "BlazorAuthenticationTutorial\BlazorAuthenticationTutorial.csproj", "{7F8663EF-A06B-4B75-A768-7CCF2B64873B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,10 @@ Global
 		{D9E1C90C-AB39-4F37-93CD-26E68A8E86E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E1C90C-AB39-4F37-93CD-26E68A8E86E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E1C90C-AB39-4F37-93CD-26E68A8E86E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8663EF-A06B-4B75-A768-7CCF2B64873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8663EF-A06B-4B75-A768-7CCF2B64873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8663EF-A06B-4B75-A768-7CCF2B64873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8663EF-A06B-4B75-A768-7CCF2B64873B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
